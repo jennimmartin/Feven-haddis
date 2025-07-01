@@ -17,7 +17,7 @@ const About = () => {
         <div>
           <img
             className="profile-img"
-            src="https://media.licdn.com/dms/image/v2/C5603AQGBBfs1CmS9nw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516869497464?e=1741824000&v=beta&t=47_Z5nuGeayfaspPreKM-WS_tP5R0LW3FFAc3ypKnX0"
+            src="https://media.licdn.com/dms/image/v2/C5603AQGBBfs1CmS9nw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516869497447?e=1756944000&v=beta&t=BTeZ80iB6z_xDUlwEGFDN4Rl38scc9LO0kZrIW5MXWc"
             alt="feven haddis profile photo"
           />
         </div>

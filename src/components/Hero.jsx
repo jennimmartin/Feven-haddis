@@ -10,8 +10,7 @@ const Hero = () => {
           <div className="hero-text">
             <h1>Hey, I'm Feven</h1>
             <p>
-              I'm passionate about empowering the lives of women. Particulary in
-              my home country of Ethopia.
+              I'm passionate about empowering the lives of women in Ethiopia
             </p>
           </div>
           <Link to="/about">
